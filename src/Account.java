@@ -1,3 +1,8 @@
+// Created By Aaliyah Creech
+// Created on Novemeber 27, 2022
+// CSIS 3701: Programming and Problem-Solving
+// YSU 2022
+
 import java.math.BigDecimal;
 import java.util.*;
 
