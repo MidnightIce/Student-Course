@@ -1,0 +1,6 @@
+F2022 CSIS 1595 Fundamentals of Programming I 3 3
+F2022 CSIS 2605 Fundamentals of Programming II 3 3
+F2022 CSIS 3701 Advanced Object-Oriented Programming 3 3
+F2022 MATH 1572 Calculus II 3 4
+F2022 GEOG 2640 Human Geography 3 4
+F2022 THTR 1590 History Of Motion Pictures 3 4
